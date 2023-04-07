@@ -1,0 +1,34 @@
+body {
+    background-image: url("bg_Argyle.jpg");
+}
+
+.text {
+    margin: 10px;
+    display: block;
+}
+
+/*Divタグ*/
+.input_form {
+    width: 600px;
+    height: 450px;
+    text-align: center;
+    background-color: white;
+    border: 1px solid;
+    border-radius: 10px;
+    margin: 0 auto;/*ブロック要素を中央揃えしたい時*/
+}
+
+h1 {
+    text-align: center;
+}
+
+label.border {
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.send{
+    margin-top:20px;
+}

@@ -1,0 +1,64 @@
+body {
+    background-color: lightcyan;
+}
+
+span {
+    border-radius: 5px;
+    background-color: #ff00009f;
+    color: white;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: rgba(0, 0, 0, 0.552);
+}
+
+button {
+    text-align: center;
+    margin: 15px;
+}
+
+footer {
+    text-align: center;
+    color: rgb(40, 66, 66);
+}
+
+.QuestionnaireArea {
+    width: 800px;
+    margin: 0 auto;
+    background-color: white;
+
+}
+
+.borderline {
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    color: rgb(80, 110, 112);
+    margin: 10px;
+    
+}
+
+.input_group {
+    width: 550px;
+    border-radius: 5px;
+}
+
+.input_age {
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.work_info,
+.name_info,
+.mail_info,
+.manner_info,
+.age_info,
+.course_info,
+.venue_info,
+.free_info {
+    margin: 15px;
+}

@@ -1,0 +1,27 @@
+body{
+    background-image:url("../images/bg_Argyle.jpg");
+}
+
+.curryImg{
+    text-align: center;
+}
+
+.kitchenImg{
+    text-align: center;
+}
+
+.curryImg img{
+    border :double 10px rgba(255, 0, 0, 0.500);
+}
+
+table,td,th{
+    width:300px;
+    border-collapse: collapse;
+    border :solid 1px  rgba(255, 0, 0, 0.500);
+    background-color: rgb(245, 245, 190);
+}
+
+caption{
+    color: rgba(255, 0, 0, 0.500);
+    text-align: center;
+}
